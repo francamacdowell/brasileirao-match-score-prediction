@@ -1,0 +1,380 @@
+round,date,day_of_week,team_1,team_2,goal_1,goal_2
+1,13/05/2017,Sábado,Flamengo,Atlético,1,1
+1,13/05/2017,Sábado,Corinthians,Chapecoense,1,1
+1,14/05/2017,Domingo,Fluminense,Santos,3,2
+1,14/05/2017,Domingo,Palmeiras,Vasco,4,0
+1,14/05/2017,Domingo,Cruzeiro,São Paulo,1,0
+1,14/05/2017,Domingo,Bahia,Atlético,6,2
+1,14/05/2017,Domingo,Ponte Preta,Sport,4,0
+1,14/05/2017,Domingo,Avaí,Vitória,0,0
+1,14/05/2017,Domingo,Grêmio,Botafogo,2,0
+1,15/05/2017,Segunda-feira,Coritiba,Atlético,4,1
+2,20/05/2017,Sábado,Santos,Coritiba,1,0
+2,20/05/2017,Sábado,Atlético,Flamengo,0,3
+2,20/05/2017,Sábado,Chapecoense,Palmeiras,1,0
+2,21/05/2017,Domingo,Vasco,Bahia,2,1
+2,21/05/2017,Domingo,Atlético,Fluminense,1,2
+2,21/05/2017,Domingo,Atlético,Grêmio,0,2
+2,21/05/2017,Domingo,Vitória,Corinthians,0,1
+2,21/05/2017,Domingo,Botafogo,Ponte Preta,2,0
+2,21/05/2017,Domingo,Sport,Cruzeiro,1,1
+2,22/05/2017,Segunda-feira,São Paulo,Avaí,2,0
+3,27/05/2017,Sábado,Vasco,Fluminense,3,2
+3,27/05/2017,Sábado,São Paulo,Palmeiras,2,0
+3,27/05/2017,Sábado,Vitória,Coritiba,0,1
+3,28/05/2017,Domingo,Atlético,Ponte Preta,2,2
+3,28/05/2017,Domingo,Santos,Cruzeiro,0,1
+3,28/05/2017,Domingo,Atlético,Flamengo,1,1
+3,28/05/2017,Domingo,Atlético,Corinthians,0,1
+3,28/05/2017,Domingo,Sport,Grêmio,4,3
+3,28/05/2017,Domingo,Botafogo,Bahia,1,0
+3,29/05/2017,Segunda-feira,Chapecoense,Avaí,2,0
+4,03/06/2017,Sábado,Coritiba,Atlético,1,0
+4,03/06/2017,Sábado,Fluminense,Vitória,2,1
+4,03/06/2017,Sábado,Corinthians,Santos,2,0
+4,04/06/2017,Domingo,Flamengo,Botafogo,0,0
+4,04/06/2017,Domingo,Avaí,Sport,1,0
+4,04/06/2017,Domingo,Palmeiras,Atlético,0,0
+4,04/06/2017,Domingo,Grêmio,Vasco,2,0
+4,04/06/2017,Domingo,Ponte Preta,São Paulo,1,0
+4,04/06/2017,Domingo,Cruzeiro,Chapecoense,0,2
+4,05/06/2017,Segunda-feira,Bahia,Atlético,3,0
+5,06/06/2017,Terça-feira,Fluminense,Atlético,1,1
+5,07/06/2017,Quarta-feira,Atlético,Avaí,1,0
+5,07/06/2017,Quarta-feira,Coritiba,Palmeiras,1,0
+5,07/06/2017,Quarta-feira,Santos,Botafogo,1,0
+5,07/06/2017,Quarta-feira,Vasco,Corinthians,2,5
+5,07/06/2017,Quarta-feira,Sport,Flamengo,2,0
+5,08/06/2017,Quinta-feira,São Paulo,Vitória,2,0
+5,08/06/2017,Quinta-feira,Atlético,Ponte Preta,3,0
+5,08/06/2017,Quinta-feira,Chapecoense,Grêmio,3,6
+5,08/06/2017,Quinta-feira,Bahia,Cruzeiro,1,0
+6,10/06/2017,Sábado,Palmeiras,Fluminense,3,1
+6,10/06/2017,Sábado,Vasco,Sport,2,1
+6,11/06/2017,Domingo,Botafogo,Coritiba,2,2
+6,11/06/2017,Domingo,Corinthians,São Paulo,3,2
+6,11/06/2017,Domingo,Vitória,Atlético,2,0
+6,11/06/2017,Domingo,Ponte Preta,Chapecoense,3,2
+6,11/06/2017,Domingo,Avaí,Flamengo,1,1
+6,11/06/2017,Domingo,Cruzeiro,Atlético,2,0
+6,11/06/2017,Domingo,Atlético,Santos,0,2
+6,12/06/2017,Segunda-feira,Grêmio,Bahia,1,0
+7,14/06/2017,Quarta-feira,Sport,São Paulo,0,0
+7,14/06/2017,Quarta-feira,Atlético,Atlético,0,1
+7,14/06/2017,Quarta-feira,Vitória,Botafogo,2,2
+7,14/06/2017,Quarta-feira,Atlético,Avaí,3,1
+7,14/06/2017,Quarta-feira,Flamengo,Ponte Preta,2,0
+7,14/06/2017,Quarta-feira,Santos,Palmeiras,1,0
+7,14/06/2017,Quarta-feira,Corinthians,Cruzeiro,1,0
+7,14/06/2017,Quarta-feira,Chapecoense,Vasco,2,1
+7,15/06/2017,Quinta-feira,Coritiba,Bahia,0,0
+7,15/06/2017,Quinta-feira,Fluminense,Grêmio,0,2
+8,17/06/2017,Sábado,Atlético,Atlético,0,1
+8,17/06/2017,Sábado,Vasco,Avaí,1,0
+8,17/06/2017,Sábado,Santos,Ponte Preta,0,0
+8,18/06/2017,Domingo,Coritiba,Corinthians,0,0
+8,18/06/2017,Domingo,Fluminense,Flamengo,2,2
+8,18/06/2017,Domingo,São Paulo,Atlético,1,2
+8,18/06/2017,Domingo,Bahia,Palmeiras,2,4
+8,18/06/2017,Domingo,Chapecoense,Botafogo,0,2
+8,18/06/2017,Domingo,Sport,Vitória,1,3
+8,19/06/2017,Segunda-feira,Cruzeiro,Grêmio,3,3
+9,21/06/2017,Quarta-feira,Vitória,Santos,0,2
+9,21/06/2017,Quarta-feira,Botafogo,Vasco,3,1
+9,21/06/2017,Quarta-feira,Palmeiras,Atlético,1,0
+9,21/06/2017,Quarta-feira,Avaí,Fluminense,0,3
+9,21/06/2017,Quarta-feira,Atlético,São Paulo,1,0
+9,21/06/2017,Quarta-feira,Atlético,Sport,2,2
+9,22/06/2017,Quinta-feira,Corinthians,Bahia,3,0
+9,22/06/2017,Quinta-feira,Ponte Preta,Cruzeiro,1,0
+9,22/06/2017,Quinta-feira,Grêmio,Coritiba,2,0
+9,22/06/2017,Quinta-feira,Flamengo,Chapecoense,5,1
+10,24/06/2017,Sábado,Santos,Sport,0,1
+10,25/06/2017,Domingo,Vasco,Atlético,1,0
+10,25/06/2017,Domingo,Atlético,Vitória,4,1
+10,25/06/2017,Domingo,Cruzeiro,Coritiba,2,0
+10,25/06/2017,Domingo,Grêmio,Corinthians,0,1
+10,25/06/2017,Domingo,São Paulo,Fluminense,1,1
+10,25/06/2017,Domingo,Ponte Preta,Palmeiras,1,2
+10,25/06/2017,Domingo,Bahia,Flamengo,0,1
+10,25/06/2017,Domingo,Chapecoense,Atlético,0,1
+10,26/06/2017,Segunda-feira,Botafogo,Avaí,0,2
+11,01/07/2017,Sábado,Palmeiras,Grêmio,1,0
+11,01/07/2017,Sábado,Atlético GO,Santos,1,1
+11,02/07/2017,Domingo,Flamengo,São Paulo,2,0
+11,02/07/2017,Domingo,Corinthians,Botafogo,1,0
+11,02/07/2017,Domingo,Atlético MG,Cruzeiro,3,1
+11,02/07/2017,Domingo,Sport,Atlético PR,1,0
+11,02/07/2017,Domingo,Vitória,Bahia,0,0
+11,02/07/2017,Domingo,Coritiba,Vasco,2,2
+11,02/07/2017,Domingo,Avaí,Ponte Preta,0,0
+11,03/07/2017,Segunda-feira,Fluminense,Chapecoense,3,3
+12,08/07/2017,Sábado,Atlético GO,Vitória,1,2
+12,08/07/2017,Sábado,Vasco,Flamengo,0,1
+12,08/07/2017,Sábado,Corinthians,Ponte Preta,2,0
+12,09/07/2017,Domingo,Chapecoense,Atlético PR,1,1
+12,09/07/2017,Domingo,Cruzeiro,Palmeiras,3,1
+12,09/07/2017,Domingo,Grêmio,Avaí,0,2
+12,09/07/2017,Domingo,Bahia,Fluminense,1,1
+12,09/07/2017,Domingo,Botafogo,Atlético MG,1,1
+12,09/07/2017,Domingo,Santos,São Paulo,3,2
+12,10/07/2017,Segunda-feira,Coritiba,Sport,0,3
+13,12/07/2017,Quarta-feira,Atlético MG,Santos,0,1
+13,12/07/2017,Quarta-feira,Ponte Preta,Bahia,0,3
+13,12/07/2017,Quarta-feira,Fluminense,Botafogo,0,1
+13,12/07/2017,Quarta-feira,Palmeiras,Corinthians,0,2
+13,12/07/2017,Quarta-feira,Atlético PR,Cruzeiro,0,2
+13,12/07/2017,Quarta-feira,Vitória,Vasco,1,4
+13,13/07/2017,Quinta-feira,Flamengo,Grêmio,0,1
+13,13/07/2017,Quinta-feira,São Paulo,Atlético GO,2,2
+13,13/07/2017,Quinta-feira,Sport,Chapecoense,3,0
+13,13/07/2017,Quinta-feira,Avaí,Coritiba,1,4
+14,15/07/2017,Sábado,Corinthians,Atlético PR,2,2
+14,16/07/2017,Domingo,Palmeiras,Vitória,4,2
+14,16/07/2017,Domingo,Vasco,Santos,0,0
+14,16/07/2017,Domingo,Cruzeiro,Flamengo,1,1
+14,16/07/2017,Domingo,Grêmio,Ponte Preta,3,1
+14,16/07/2017,Domingo,Atlético GO,Altético MG,1,2
+14,16/07/2017,Domingo,Chapecoense,São Paulo,2,0
+14,16/07/2017,Domingo,Coritiba,Fluminense,1,2
+14,16/07/2017,Domingo,Bahia,Avaí,1,1
+14,17/07/2017,Segunda-feira,Botafogo,Sport,2,1
+15,19/07/2017,Quarta-feira,Santos,Chapecoense,1,0
+15,19/07/2017,Quarta-feira,Vitória,Grêmio,1,3
+15,19/07/2017,Quarta-feira,Ponte Preta,Coritiba,4,0
+15,19/07/2017,Quarta-feira,Avaí,Avaí,1,0
+15,19/07/2017,Quarta-feira,Flamengo,Palmeiras,2,2
+15,19/07/2017,Quarta-feira,São Paulo,Vasco,1,0
+15,19/07/2017,Quarta-feira,Atlético MG,Bahia,0,2
+15,20/07/2017,Quinta-feira,Fluminense,Cruzeiro,1,1
+15,20/07/2017,Quarta-feira,Sport,Atlético GO,4,0
+15,20/07/2017,Quinta-feira,Atlético PR,Botafogo,0,0
+16,22/07/2017,Sábado,Vitória,Chapecoense,1,2
+16,22/07/2017,Sábado,Flamengo,Coritiba,2,1
+16,23/07/2017,Domingo,Santos,Bahia,3,0
+16,23/07/2017,Domingo,Fluminense,Corinthians,0,1
+16,23/07/2017,Domingo,Sport,Palmeiras,0,2
+16,23/07/2017,Domingo,Avaí,Cruzeiro,1,0
+16,23/07/2017,Domingo,Atlético MG,Vasco,1,2
+16,23/07/2017,Domingo,Atlético PR,Ponte Preta,0,2
+16,23/07/2017,Domingo,Atlético GO,Botafogo,1,1
+16,24/07/2017,Segunda-feira,São Paulo,Grêmio,1,1
+17,29/07/2017,Sábado,Botafogo,São Paulo,3,4
+17,29/07/2017,Sábado,Palmeiras,Avaí,2,0
+17,30/07/2017,Domingo,Chapecoense,Atlético GO,1,2
+17,30/07/2017,Domingo,Corinthians,Flamengo,1,1
+17,30/07/2017,Domingo,Coritiba,Atlético MG,0,2
+17,30/07/2017,Domingo,Bahia,Sport,1,3
+17,30/07/2017,Domingo,Cruzeiro,Vitória,0,0
+17,30/07/2017,Domingo,Grêmio,Santos,1,1
+17,31/07/2017,Segunda-feira,Vasco,Atlético PR,0,1
+17,09/08/2017,Quarta-feira,Ponte Preta,Fluminense,0,0
+18,02/08/2017,Quarta-feira,Sport,Fluminense,2,2
+18,02/08/2017,Quarta-feira,Chapecoense,Bahia,1,1
+18,02/08/2017,Quarta-feira,Atlético MG,Corinthians,0,2
+18,02/08/2017,Quarta-feira,Vitória,Ponte Preta,3,1
+18,02/08/2017,Quarta-feira,Botafogo,Palmeiras,1,2
+18,02/08/2017,Quarta-feira,Santos,Flamengo,3,2
+18,02/08/2017,Quarta-feira,Atlético GO,Grêmio,0,1
+18,03/08/2017,Quinta-feira,São Paulo,Coritiba,1,2
+18,03/08/2017,Quinta-feira,Atlético PR,Avaí,5,0
+18,03/08/2017,Quinta-feira,Vasco,Cruzeiro,0,3
+19,05/08/2017,Sábado,Fluminense,Atlético GO,3,1
+19,05/08/2017,Sábado,Corinthians,Sport,3,1
+19,06/08/2017,Domingo,Flamengo,Vitória,0,2
+19,06/08/2017,Domingo,Palmeiras,Atlético PR,0,1
+19,06/08/2017,Domingo,Cruzeiro,Botafogo,0,0
+19,06/08/2017,Domingo,Coritiba,Chapecoense,2,0
+19,06/08/2017,Domingo,Grêmio,Atlético MG,2,0
+19,06/08/2017,Domingo,Bahia,São Paulo,2,1
+19,06/08/2017,Domingo,Ponte Preta,Vasco,0,0
+19,06/08/2017,Domingo,Avaí,Santos,0,0
+20,12/08/2017,Sábado,Atlético GO,Coritiba,1,0
+20,12/08/2017,Sábado,Vitória,Avaí,0,1
+20,13/08/2017,Domingo,São Paulo,Cruzeiro,3,2
+20,13/08/2017,Domingo,Vasco,Palmeiras,1,1
+20,13/08/2017,Domingo,Atlético MG,Flamengo,2,0
+20,13/08/2017,Domingo,Sport,Ponte Preta,0,0
+20,13/08/2017,Domingo,Botafogo,Grêmio,1,0
+20,13/08/2017,Domingo,Atlético PR,Bahia,4,1
+20,14/08/2017,Segunda-feira,Santos,Fluminense,0,0
+20,14/08/2017,Quarta-feira,Chapecoense,Corinthians,0,0
+21,19/08/2017,Sábado,Corinthians,Vitória,0,1
+21,19/08/2017,Sábado,Flamengo,Altético GO,2,0
+21,20/08/2017,Domingo,Grêmio,Altético PR,0,0
+21,20/08/2017,Domingo,Cruzeiro,Sport,2,0
+21,20/08/2017,Domingo,Bahia,Vasco,3,0
+21,20/08/2017,Domingo,Ponte Preta,Botafogo,2,1
+21,20/08/2017,Domingo,Avaí,São Paulo,1,1
+21,20/08/2017,Domingo,Palmeiras,Chapecoense,0,2
+21,20/08/2017,Domingo,Coritiba,Santos,0,0
+21,21/08/2017,Segunda-feira,Fluminense,Altético MG,2,1
+22,26/08/2017,Sábado,Fluminense,Vasco,0,1
+22,26/08/2017,Sábado,Corinthians,Atlético GO,0,1
+22,27/08/2017,Domingo,Flamengo,Atlético PR,2,0
+22,27/08/2017,Domingo,Palmeiras,São Paulo,4,2
+22,27/08/2017,Domingo,Bahia,Botafogo,1,2
+22,27/08/2017,Domingo,Ponte Preta,Atlético MG,1,2
+22,27/08/2017,Domingo,Cruzeiro,Santos,1,1
+22,27/08/2017,Domingo,Avaí,Chapecoense,1,0
+22,28/08/2017,Segunda-feira,Coritiba,Vitória,0,1
+22,02/09/2017,Sábado,Grêmio,Sport,5,0
+23,09/09/2017,Sábado,Altético MG,Palmeiras,1,1
+23,09/09/2017,Sábado,Vasco,Grêmio,1,0
+23,09/09/2017,Sábado,São Paulo,Ponte Preta,2,2
+23,10/09/2017,Domingo,Altético PR,Coritiba,1,1
+23,10/09/2017,Domingo,Santos,Santos,2,0
+23,10/09/2017,Domingo,Sport,Corinthians,0,1
+23,10/09/2017,Domingo,Vitória,Fluminense,2,2
+23,10/09/2017,Domingo,Botafogo,Flamengo,2,0
+23,10/09/2017,Domingo,Chapecoense,Cruzeiro,1,2
+23,11/09/2017,Segunda-feira,Altético GO,Bahia,1,1
+24,16/09/2017,Sábado,Botafogo,Santos,2,0
+24,16/09/2017,Sábado,Ponte Preta,Atlético GO,1,3
+24,17/09/2017,Domingo,Avaí,Atlético MG,1,1
+24,17/09/2017,Domingo,Flamengo,Sport,2,0
+24,17/09/2017,Domingo,Corinthians,Vasco,1,0
+24,17/09/2017,Domingo,Atlético PR,Fluminense,3,1
+24,17/09/2017,Domingo,Grêmio,Chapecoense,0,1
+24,17/09/2017,Domingo,Vitória,São Paulo,1,2
+24,17/09/2017,Domingo,Cruzeiro,Bahia,1,0
+24,18/09/2017,Segunda-feira,Palmeiras,Coritiba,1,0
+25,23/09/2017,Sábado,Flamengo,Avaí,1,1
+25,23/09/2017,Sábado,Santos,Atlético PR,1,0
+25,24/09/2017,Domingo,São Paulo,Corinthians,1,1
+25,24/09/2017,Domingo,Fluminense,Palmeiras,0,1
+25,24/09/2017,Domingo,Coritiba,Botafogo,2,3
+25,24/09/2017,Domingo,Atlético GO,Cruzeiro,1,2
+25,24/09/2017,Domingo,Chapecoense,Ponte Preta,1,0
+25,24/09/2017,Domingo,Atlético MG,Vitória,1,3
+25,24/09/2017,Domingo,Bahia,Grêmio,1,0
+25,25/09/2017,Segunda-feira,Sport,Vasco,1,1
+26,30/09/2017,Sábado,Vasco,Chapecoense,1,1
+26,30/09/2017,Sábado,Bahia,Coritiba,1,1
+26,30/09/2017,Sábado,Palmeiras,Santos,0,1
+26,01/10/2017,Domingo,Botafogo,Vitória,2,3
+26,01/10/2017,Domingo,São Paulo,Sport,1,0
+26,01/10/2017,Domingo,Cruzeiro,Corinthians,1,1
+26,01/10/2017,Domingo,Grêmio,Fluminense,1,0
+26,01/10/2017,Domingo,Avaí,Atlético GO,0,2
+26,01/10/2017,Domingo,Atlético PR,Atlético MG,0,2
+26,02/10/2017,Segunda-feira,Ponte Preta,Flamengo,1,0
+27,11/10/2017,Quarta-feira,Botafogo,Chapecoense,2,1
+27,11/10/2017,Quarta-feira,Altético PR,Altético GO,2,2
+27,11/10/2017,Quarta-feira,Corinthians,Coritiba,3,1
+27,11/10/2017,Quarta-feira,Altético MG,São Paulo,1,0
+27,11/10/2017,Quarta-feira,Grêmio,Cruzeiro,0,1
+27,11/10/2017,Quarta-feira,Avaí,Vasco,1,2
+27,12/10/2017,Quinta-feira,Flamengo,Fluminense,1,1
+27,12/10/2017,Quinta-feira,Vitória,Sport,1,2
+27,12/10/2017,Quinta-feira,Ponte Preta,Santos,1,1
+27,12/10/2017,Quinta-feira,Palmeiras,Bahia,2,2
+28,7/10/2017,Sábado,Cruzeiro,Ponte Preta,2,1
+28,14/10/2017,Sábado,Vasco,Botafogo,1,0
+28,14/10/2017,Sábado,São Paulo,Altético PR,2,1
+28,15/10/2017,Domingo,Fluminense,Avaí,1,0
+28,15/10/2017,Domingo,Sport,Altético MG,1,1
+28,15/10/2017,Domingo,Altético GO,Palmeiras,1,3
+28,15/10/2017,Domingo,Chapecoense,Flamengo,0,1
+28,15/10/2017,Domingo,Coritiba,Grêmio,0,1
+28,15/10/2017,Domingo,Bahia,Corinthians,2,0
+28,16/10/2017,Segunda-feira,Santos,Vitória,2,2
+29,18/10/2017,Quarta-feira,Coritiba,Cruzeiro,1,0
+29,18/10/2017,Quarta-feira,Atlético GO,Vasco,0,1
+29,18/10/2017,Quarta-feira,Atlético MG,Chapecoense,2,3
+29,18/10/2017,Quarta-feira,Fluminense,São Paulo,3,1
+29,18/10/2017,Quarta-feira,Corinthians,Grêmio,0,0
+29,18/10/2017,Quarta-feira,Avaí,Botafogo,1,1
+29,19/10/2017,Quinta-feira,Palmeiras,Ponte Preta,2,0
+29,19/10/2017,Quinta-feira,Vitória,Atlético PR,2,3
+29,19/10/2017,Quinta-feira,Flamengo,Bahia,4,1
+29,19/10/2017,Quinta-feira,Sport,Santos,1,1
+30,21/10/2017,Sábado,Vasco,Coritiba,1,1
+30,22/10/2017,Domingo,Santos,Atlético GO,1,0
+30,22/10/2017,Domingo,São Paulo,Flamengo,2,0
+30,22/10/2017,Domingo,Cruzeiro,Atlético MG,1,3
+30,22/10/2017,Domingo,Atlético PR,Sport,2,1
+30,22/10/2017,Domingo,Grêmio,Palmeiras,1,3
+30,22/10/2017,Domingo,Bahia,Vitória,2,1
+30,22/10/2017,Domingo,Ponte Preta,Avaí,1,2
+30,22/10/2017,Domingo,Chapecoense,Fluminense,2,0
+30,23/10/2017,Segunda-feira,Botafogo,Corinthians,2,1
+31,28/10/2017,Sábado,São Paulo,Santos,2,1
+31,28/10/2017,Sábado,Flamengo,Vasco,0,0
+31,28/10/2017,Sábado,Atlético PR,Chapecoense,0,0
+31,29/10/2017,Domingo,Fluminense,Bahia,1,1
+31,29/10/2017,Domingo,Atlético MG,Botafogo,0,0
+31,29/10/2017,Domingo,Ponte Preta,Corinthians,1,0
+31,29/10/2017,Domingo,Sport,Coritiba,3,4
+31,29/10/2017,Domingo,Vitória,Atlético GO,1,1
+31,29/10/2017,Domingo,Avaí,Grêmio,2,2
+31,30/10/2017,Segunda-feira,Palmeiras,Cruzeiro,2,2
+32,04/11/2017,Sábado,Santos,Atlético MG,3,1
+32,04/11/2017,Sábado,Botafogo,Fluminense,1,2
+32,04/11/2017,Sábado,Atlético GO,São Paulo,0,1
+32,04/11/2017,Sábado,Coritiba,Avaí,4,0
+32,05/11/2017,Domingo,Corinthians,Palmeiras,3,2
+32,05/11/2017,Domingo,Cruzeiro,Atlético PR,1,0
+32,05/11/2017,Domingo,Grêmio,Flamengo,3,1
+32,05/11/2017,Domingo,Bahia,Ponte Preta,2,0
+32,05/11/2017,Domingo,Vasco,Vitória,1,1
+32,05/11/2017,Domingo,Chapecoense,Sport,1,1
+33,08/11/2017,Quarta-feira,Ponte Preta,Grêmio,0,1
+33,08/11/2017,Quarta-feira,Avaí,Bahia,1,2
+33,08/11/2017,Quarta-feira,Atlético PR,Corinthians,0,1
+33,08/11/2017,Quarta-feira,Sport,Botafogo,1,2
+33,08/11/2017,Quarta-feira,Flamengo,Cruzeiro,2,0
+33,08/11/2017,Quarta-feira,Santos,Vasco,1,2
+33,08/11/2017,Quarta-feira,Vitória,Palmeiras,3,1
+33,09/11/2017,Quinta-feira,São Paulo,Chapecoense,2,2
+33,09/11/2017,Quinta-feira,Atlético MG,Atlético GO,3,2
+33,09/11/2017,Quinta-feira,Fluminense,Coritiba,2,2
+34,11/11/2017,Sábado,Botafogo,Atlético PR,0,1
+34,11/11/2017,Sábado,Corinthians,Avaí,1,0
+34,12/11/2017,Domingo,Vasco,São Paulo,1,1
+34,12/11/2017,Domingo,Palmeiras,Flamengo,2,0
+34,12/11/2017,Domingo,Grêmio,Vitória,1,1
+34,12/11/2017,Domingo,Atlético GO,Sport,2,0
+34,12/11/2017,Domingo,Bahia,Atlético MG,2,2
+34,12/11/2017,Domingo,Cruzeiro,Fluminense,3,1
+34,12/11/2017,Domingo,Coritiba,Ponte Preta,1,1
+34,13/11/2017,Segunda-feira,Chapecoense,Santos,2,0
+35,15/11/2017,Quarta-feira,Ponte Preta,Atlético PR,2,1
+35,15/11/2017,Quarta-feira,Cruzeiro,Avaí,2,2
+35,15/11/2017,Quarta-feira,Grêmio,São Paulo,1,0
+35,15/11/2017,Quarta-feira,Vasco,Atlético MG,1,1
+35,15/11/2017,Quarta-feira,Corinthians,Fluminense,3,1
+35,16/11/2017,Quinta-feira,Botafogo,Atlético GO,1,2
+35,16/11/2017,Quinta-feira,Palmeiras,Sport,5,1
+35,16/11/2017,Quinta-feira,Chapecoense,Flamengo,1,0
+35,16/11/2017,Quinta-feira,Bahia,Santos,3,1
+36,19/11/2017,Domingo,Flamengo,Corinthians,3,0
+36,19/11/2017,Domingo,São Paulo,Botafogo,0,0
+36,19/11/2017,Domingo,Sport,Bahia,1,0
+36,19/11/2017,Domingo,Vitória,Cruzeiro,1,1
+36,19/11/2017,Domingo,Atlético GO,Chapecoense,1,1
+36,19/11/2017,Domingo,Santos,Grêmio,1,0
+36,19/11/2017,Domingo,Atlético MG,Coritiba,3,0
+36,19/11/2017,Domingo,Atlético PR,Vasco,3,1
+36,20/11/2017,Segunda-feira,Fluminense,Ponte Preta,2,0
+36,20/11/2017,Segunda-feira,Avaí,Palmeiras,2,1
+37,25/11/2017,Sábado,Fluminense,Sport,1,2
+37,26/11/2017,Domingo,Corinthians,Altético MG,2,2
+37,26/11/2017,Domingo,Cruzeiro,Vasco,0,1
+37,26/11/2017,Domingo,Coritiba,São Paulo,1,2
+37,26/11/2017,Domingo,Grêmio,Altético GO,1,1
+37,26/11/2017,Domingo,Ponte Preta,Vitória,2,3
+37,26/11/2017,Domingo,Avaí,Altético PR,1,0
+37,26/11/2017,Domingo,Flamengo,Santos,1,2
+37,26/11/2017,Domingo,Bahia,Chapecoense,0,1
+37,27/11/2017,Segunda-feira,Palmeiras,Botafogo,2,0
+38,03/12/2017,Domingo,Botafogo,Cruzeiro,2,2
+38,03/12/2017,Domingo,Vasco,Ponte Preta,2,1
+38,03/12/2017,Domingo,Santos,Avaí,1,1
+38,03/12/2017,Domingo,São Paulo,Bahia,1,1
+38,03/12/2017,Domingo,Atlético MG,Grêmio,4,3
+38,03/12/2017,Domingo,Atlético PR,Palmeiras,3,0
+38,03/12/2017,Domingo,Sport,Corinthians,1,0
+38,03/12/2017,Domingo,Vitória,Flamengo,1,2
+38,03/12/2017,Domingo,Atlético GO,Fluminense,1,1
+38,03/12/2017,Domingo,Chapecoense,Coritiba,2,1
